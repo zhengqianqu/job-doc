@@ -8,13 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 下载
-      link: https://job.zhengqianqu.cn/download
+      link: 
     - theme: alt
       text: 文档
       link: /doc
-    - theme: alt
-      text: 免费密钥
-      link: /keys
 
 features:
   - title: 自动打招呼
