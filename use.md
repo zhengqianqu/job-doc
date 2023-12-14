@@ -31,8 +31,3 @@ outline: deep
 1. 日志分区，可查看运行中的日志信息，请多关注  
 ![image.png](./static/img_14.png)
 
-## 视频教程
-<video controls>
-  <source src="https://static-1253419794.file.myqcloud.com/boss/11%E6%9C%881%E6%97%A5%281%29.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
