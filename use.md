@@ -28,6 +28,6 @@ outline: deep
 1. 点击使用教程，获取详细使用步骤  
 ![image.png](./static/img_13.png)
 
-1. 日志分区，可查看运行中的日志信息，请多关注  
+2. 日志分区，可查看运行中的日志信息，请多关注  
 ![image.png](./static/img_14.png)
 
