@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "求职助手",
   description: "专为求职者量身定制的自动化工具",
-  base: '/job/',
+  base: '/job-doc/',
   head: [['link', { rel: 'icon', href: '/icon.png' }]],
   themeConfig: {
     logo: '/icon.png',
