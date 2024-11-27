@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 下载
-      link: 
+      link: /download
     - theme: alt
       text: 文档
       link: /doc
